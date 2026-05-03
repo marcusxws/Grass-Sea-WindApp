@@ -4,6 +4,5 @@ a tested module for the WindApp
 <details>
 <summary>More info</summary>
 
-This content is hidden until expanded.
-
+Strictly follow ISSUES to troubleshoot any problems.
 </details>
